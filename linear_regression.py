@@ -1,4 +1,4 @@
-## begin #1 chapter
+## begin #2 chapter
 import pandas as pd
 import quandl
 
@@ -13,4 +13,4 @@ df = df[['Adj. Close', 'HL_PCT', 'PCT_change', 'Adj. Volume']]
 print(df.head())
 
 
-## begin #2 chapter
+## begin #3 chapter
